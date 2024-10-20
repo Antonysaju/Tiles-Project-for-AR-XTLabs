@@ -2,6 +2,9 @@
 Automated PDF processing tool that extracts tile design details and symbols from PDF documents using Python, OpenCV, and Tesseract OCR. It dynamically identifies and extracts images, text, and characteristics, then stores the data in CSV files for easy reference.
 
 This project is a Python-based tool that extracts tile design details, symbols, and their corresponding meanings from PDF documents. It utilizes OpenCV, Tesseract OCR, and PyMuPDF to dynamically detect and extract images, symbols, and text from PDFs and store the extracted information in CSV files for easy reference.
+Sample page from Tiles Catalogue PDF:
+![Screenshot (23)](https://github.com/user-attachments/assets/45a0dfb2-39c0-49df-b97a-9c37c6cb9314)
+
 
 Features
 Automatically extracts tile design details such as design name, tile type, tile design images, preview images, and characteristics.
